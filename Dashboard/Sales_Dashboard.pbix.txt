@@ -1,1 +1,0 @@
-This is a placeholder for the Power BI project file (Sales_Dashboard.pbix). Save your Power BI Desktop project here.
