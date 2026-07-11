@@ -1,0 +1,9 @@
+# Power BI
+*.pbix
+
+# Datasets (Optional, but good practice if datasets get too large)
+# /Dataset/sales_data.csv
+
+# Python
+__pycache__/
+*.pyc
